@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		
+	<string name="app_name">WiFiChat</string>
+	<string name="btn_return">Return</string>
+	<string name="btn_next">NEXT</string>
+	<string name="dialog_tips">DISPLAY</string>
+	<string name="btn_finish">SAVE</string>
+	<string name="btn_yes">YES</string>
+	<string name="btn_cancel">CANCEL</string>
+	<string name="dialog_loading">Loading, please wait ...</string>
+	<string name="dialog_loading_failue">Data failed to load ...</string>
+	
+	<string name="welcome_btn_login">Login</string>
+	
+	<string name="login_hint_nickname">Enter your nickname</string>
+	<string name="login_text_onlinestate">Online</string>
+	<string name="login_text_birthday">date of birth</string>
+	<string name="login_text_age">years old</string>
+	<string name="login_text_birthdaytips">Reminder: Your date of birth do not appear in profile</string>
+	<string name="login_text_selectsex">Sex selection</string>
+	<string name="login_text_male">Male</string>
+	<string name="login_text_female">Female</string>
+	<string name="login_text_lastlogin">Last Login:</string>
+	<string name="login_text_changeuser">Replacing Account</string>
+	<string name="login_dialog_saveInfo">Storing personal information ...</string>
+	<string name="login_toast_loginfailue">Operation failed, please try restarting the program.</string>
+	<string name="login_toast_nickname">Please enter your chat nickname</string>
+	<string name="login_toast_sex">Please choose gender</string>
+	
+	<string name="wifiap_btn_connectwifi">Connect</string>
+	<string name="wifiap_btn_disconnect">Creating hotspotsCreating hotspotsChoose to receive a file folderPress again to exit the programPress again to exit the programPhotographPhotograph</string>
+	<string name="wifiap_btn_createap">Creating hotspots</string>
+	<string name="wifiap_btn_closeap">Close hotspots</string>
+	<string name="wifiap_btn_connecting">Connecting</string>	
+	<string name="wifiap_text_wifi_connected">Wifi connected</string>
+	<string name="wifiap_text_wifi_disconnect">WiFi disconnect</string>
+	<string name="wifiap_text_ap_1">Turned hot</string>
+	<string name="wifiap_text_ap_0">Hot Closed</string>
+	<string name="wifiap_text_wifi_0">WiFi unopened</string>	
+	<string name="wifiap_text_wifi_1_0">WiFi is turned on, not connected</string>	
+	<string name="wifiap_text_createap_failue">Hot creation fails, try to re-create</string>
+	<string name="wifiap_dialog_createap_nonsupport">Your device does not support the creation hotspots</string>
+	<string name="wifiap_text_createap_creating">We are creating hot spots ...</string>
+	<string name="wifiap_dialog_createap_closewifi_confirm">Creating hotspots will close the current WiFi, confirm to continue?</string>
+	<string name="wifiap_dialog_createap_used">System hotspots are occupied, turn off after a hot Click OK to continue Next</string>
+	<string name="wifiap_dialog_searchap_closeap_confirm">Whether to close the current hot to search for other hot?</string>
+	<string name="wifiap_dialog_closeap_confirm">Are you sure you need to turn off the hot?</string>
+	<string name="wifiap_hint_connectap_pwd">Please enter the connection password</string>
+	<string name="wifiap_dialog_login_saveInfo">Storing connection information</string>
+	<string name="wifiap_toast_connectap_unavailable">Please create a hotspot or connect a hotspot</string>	
+	<string name="wifiap_toast_connectap_error">Connection error, please check the password and then try to connect.</string>
+	<string name="wifiap_toast_connectap_error_1">Connection error, try to reconnect.</string>
+	<string name="wifiap_text_createap_succeed">Hot create success!</string>
+	<string name="wifiap_diolog_showpwd">Display password</string>
+	
+	<string name="chat_btn_send">Send</string>	
+	<string name="chat_text_plus_image">Image</string>
+	<string name="chat_text_plus_takephoto">Photograph</string>
+	<string name="chat_text_plus_file">File</string>
+	<string name="chat_dialog_record_cancel_move">Slide up to cancel the recording</string>
+	<string name="chat_dialog_record_cancel_up">Release your finger to cancel the recording</string>
+	<string name="chat_toast_record_shorttime">Failed recording time is too short</string>	
+	
+    <string name="otherpprofile_text_userinfo">User Information</string>
+    <string name="otherpprofile_text_ip">IP Address</string>
+    <string name="otherpprofile_text_device">Device</string>
+	
+    <string name="setting_text_profile">personal information</string>
+	<string name="setting_text_myprofile">My Profile</string>
+	<string name="setting_text_myprofile_avatar">Please select Head</string>
+	<string name="setting_text_sysconfig">System config</string>
+	<string name="setting_text_sysconfig_sound">Sound</string>
+	<string name="setting_text_sysconfig_vibra">Vibrate</string>
+	<string name="setting_text_sysconfig_aboutus">About</string>	
+	<string name="setting_btn_cleandb">Delete chats</string>
+	<string name="setting_btn_aboutus">About</string>
+	<string name="setting_btn_closeapp">Close</string>
+	<string name="setting_dialog_chatlog_delete_confirm">Delete all the pictures received will delete chat logs, voice, file</string>
+	<string name="setting_dialog_chatlog_delete_ok">OK</string>
+	<string name="setting_dialog_chatlog_delete_cancel">Cancel</string>	
+	<string name="setting_dialog_chatlog_deleting">Being deleted chats ...</string>
+	<string name="setting_dialog_toast_delect_success">Delete chats success</string>
+	<string name="setting_dialog_toast_delect_failue">Operation failed, please try restarting the program.</string>
+
+	<string name="setting_dialog_logout_confirm">Sure you want to exit the software?</string>
+	<string name="setting_dialog_logout_ok">OK</string>
+	<string name="setting_dialog_logout_cancel">Cancel</string>	
+	
+	<string name="aboutus_copyright"></string>
+	<string name="aboutus_text"></string>
+	<string name="aboutus_text2"></string>
+	
+	<string name="maintab_text_emptypage">Text empty page</string>
+    <string name="maintab_text_nearby">Nearby</string>
+	<string name="maintab_text_message">Message</string>
+	<string name="maintab_text_setting">Setting</string>		
+	<string name="maintab_toast_logout">Press again to exit the program</string>
+	
+	<string name="lv_refresh_head_load_more">Load more</string>
+    <string name="lv_refresh_end_load_more">More</string>
+    <string name="lv_refresh_end_click_load_more">Click load</string>
+    <string name="lv_refresh_release_refresh">Loosen Refresh</string>
+    <string name="lv_refresh_pull_to_refresh">Pull-down refresh</string>
+    <string name="lv_refresh_doing_head_refresh">Refreshing...</string>
+    <string name="lv_refresh_doing_end_refresh">Loading...</string>
+    <string name="lv_refresh_refresh_lasttime">Refresh:</string>
+	
+	<string name="toast_sdcard_unavailable">SD card Unavailable</string>
+	<string name="toast_file_manager_unavailable">FileManager Unavailable</string>
+	<string name="text_file_send_select">Send File</string>
+		
+	<string name="current_path_label">Current Path:</string>
+	<string name="select_path_for_save">Choose to receive a file folder</string>
+	<string name="no_file">No files</string>
+	<string name="accept">Accept</string>
+	<string name="close">Close</string>
+
+</resources>
